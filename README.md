@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Backend Web Development
 - 💞️ I’m looking to collaborate on React Development
-- 📫 Drop a message @ rohansah202@gmail.com or +919999859315 
+- 📫 Drop a message @ rohansah202@gmail.com 
 
 <!---
 Millenial6360/Millenial6360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
